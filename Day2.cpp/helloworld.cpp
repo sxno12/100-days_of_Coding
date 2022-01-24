@@ -1,4 +1,5 @@
 #include <iostream> //header file library, (almost) always appear in program
+using namespace std;
 
 int main() //function
 {
